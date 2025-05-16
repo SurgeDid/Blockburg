@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://ro-scripts.vercel.app/"))();
+loadstring(game:HttpGet("https://azurix.vercel.app/"))()
